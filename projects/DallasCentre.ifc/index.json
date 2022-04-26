@@ -1,0 +1,35 @@
+{
+	"id": "DallasCentre.ifc",
+	"name": "DallasCentre.ifc",
+	"created": "Wed, 14 Jun 2017 07:00:00 GMT",
+	"models": [
+		{
+			"id": "DallasCentre",
+			"name": "DallasCentre",
+			"metadata": {
+				"sourceFormat": "IFC",
+				"schemaVersion": "",
+				"title": "",
+				"author": "",
+				"created": "",
+				"numPropertySets": 10152,
+				"numMetaObjects": 2900,
+				"numObjects": 5357,
+				"numTriangles": 332118,
+				"numVertices": 788628,
+				"xktSizeKb": "2420.85",
+				"aabb": [
+					-40.28907960581455,
+					-0.4000001852400601,
+					-13.13618366744322,
+					37.14835160898838,
+					3.8900000285357237,
+					14.276358132697169
+				]
+			}
+		}
+	],
+	"viewerConfigs": {},
+	"viewerContent": {},
+	"viewerState": {}
+}
